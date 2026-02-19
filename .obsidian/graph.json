@@ -1,12 +1,41 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"Memory/Daily\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Projects\"",
+      "color": {
+        "a": 1,
+        "rgb": 3899439
+      }
+    },
+    {
+      "query": "path:\"Research\"",
+      "color": {
+        "a": 1,
+        "rgb": 14647620
+      }
+    },
+    {
+      "query": "path:\"Memory/Daily\"",
+      "color": {
+        "a": 0.3,
+        "rgb": 8947848
+      }
+    },
+    {
+      "query": "path:\"Tasks\"",
+      "color": {
+        "a": 1,
+        "rgb": 16744272
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
