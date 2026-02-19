@@ -23,7 +23,13 @@
 - 도매꾹 원본 이미지 → AI 리터칭
 - 자동 포스팅 → 성과 분석 → 소싱 최적화 피드백 루프
 
-## 관련 파일
+## 관련 문서
+- [[Projects/셀픽스-쿠팡-파이프라인|🛒 쿠팡 파이프라인]] — 상품 소싱 연결
+- [[Research/소싱-트렌드-분석|📦 소싱 트렌드 분석]] — TikTok 상품 선정 기준
+- [[Research/비즈니스-방향|🧭 비즈니스 방향]] — 전략 선택지
+- [[Tasks/할일-보드|📋 할일 보드]] — TikTok 관련 할일
+
+## 서버 파일 경로
 - `tmp/selpix-tiktok/links.html`
 - `tmp/selpix-saas/data/tiktok_products.json`
 - `tmp/selpix-saas/data/register_queue.json` (tiktokContent 필드)
