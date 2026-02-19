@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Memory/Daily\"",
+  "search": "-path:\"Memory/Daily\" -path:\"Research/AI트렌드\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -24,7 +24,7 @@
     {
       "query": "path:\"Memory/Daily\"",
       "color": {
-        "a": 0.3,
+        "a": 1,
         "rgb": 8947848
       }
     },
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.853191173535799,
+  "scale": 0.8445863777354891,
   "close": true
 }
