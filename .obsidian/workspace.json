@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Projects/셀픽스-쿠팡-파이프라인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "셀픽스-쿠팡-파이프라인"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#쿠팡",
+                "query": "청년큐브",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Projects/셀픽스-쿠팡-파이프라인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CLAUDE 의 백링크"
+              "title": "셀픽스-쿠팡-파이프라인 의 백링크"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Projects/셀픽스-쿠팡-파이프라인.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CLAUDE 의 개요"
+              "title": "셀픽스-쿠팡-파이프라인 의 개요"
             }
           },
           {
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,35 +195,35 @@
   },
   "active": "e3fb207c46d4faf9",
   "lastOpenFiles": [
+    "Memory/AUTOMATION_DESIGN.md",
+    "Memory/장기기억.md",
+    "00_Vault_Index/01_사업계획서_인덱스.md",
+    "History/지금까지-한-일.md",
+    "Memory/PRODUCT_SELECTION_MANUAL.md",
+    "Memory/active_memory.md",
+    "Projects/TikTok-콘텐츠-자동화.md",
+    "Projects/셀픽스-쿠팡-파이프라인.md",
+    "CLAUDE.md",
     "00_Vault_Index/05_미디어_인덱스.md",
     "00_Vault_Index/00_HOME.md",
     "00_Vault_Index/06_OpenClaw_현황.md",
     "00_Vault_Index/03_기술개발_인덱스.md",
     "00_Vault_Index/04_사업운영_인덱스.md",
     "00_Vault_Index/02_시장조사_인덱스.md",
-    "00_Vault_Index/01_사업계획서_인덱스.md",
     "00_Vault_Index",
-    "History/지금까지-한-일.md",
     "Memory/Daily/2026-02-20.md",
     "Memory/Daily/TEMPLATE.md",
     "Memory/Daily/active_memory.md",
     "Memory/Daily/README.md",
-    "Projects/셀픽스-쿠팡-파이프라인.md",
     "Memory/Daily/2026-02-17.md",
     "Memory/Daily/2026-02-05.md",
     "Memory/Daily/2026-02-16.md",
     "무제 1.canvas",
     "무제.canvas",
-    "Projects/TikTok-콘텐츠-자동화.md",
     "Tasks/할일-보드.md",
-    "CLAUDE.md",
     "README.md",
     "📊 대시보드.md",
     "Research/비즈니스-방향.md",
-    "Research/소싱-트렌드-분석.md",
-    "Research/AI트렌드/2026-02-14.md",
-    "Research/AI트렌드/2026-02-04.md",
-    "Research/AI트렌드/index.md",
     "Memory/Weekly",
     "Memory/Monthly",
     "Research/AI트렌드",
