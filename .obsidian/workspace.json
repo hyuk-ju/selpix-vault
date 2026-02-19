@@ -187,14 +187,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "98e787622580eba1",
+  "active": "e3fb207c46d4faf9",
   "lastOpenFiles": [
+    "Templates/클리핑-템플릿.md",
     "Templates/회의록-템플릿.md",
-    "Memory/세컨드브레인-템플릿-사용법.md",
+    "Templates/Samples/샘플_MOC_셀픽스-쿠팡-운영.md",
+    "Templates/Samples/샘플_Daily_2026-02-19.md",
+    "Templates/Samples/샘플_회의록_2026-02-19_쿠팡-운영-루틴-정비.md",
+    "Templates/Samples/샘플_클리핑_2026-02-19_Obsidian-세컨드브레인-영상.md",
     "Templates/Daily-Note-템플릿.md",
     "Templates/MOC-템플릿.md",
+    "무제.md",
+    "Templates/Samples",
+    "Memory/세컨드브레인-템플릿-사용법.md",
     "Templates/README.md",
-    "Templates/클리핑-템플릿.md",
     "Templates",
     "00_Vault_Index/00_HOME.md",
     "00_Vault_Index/06_OpenClaw_현황.md",
@@ -212,11 +218,6 @@
     "00_Vault_Index/04_사업운영_인덱스.md",
     "00_Vault_Index/02_시장조사_인덱스.md",
     "00_Vault_Index",
-    "Memory/Daily/2026-02-20.md",
-    "Memory/Daily/TEMPLATE.md",
-    "Memory/Daily/active_memory.md",
-    "Memory/Daily/README.md",
-    "Memory/Daily/2026-02-17.md",
     "무제 1.canvas",
     "무제.canvas",
     "Memory/Weekly",
@@ -226,7 +227,6 @@
     "Assets",
     "Business",
     "Sourcing",
-    "selpix/무제.canvas",
-    "Research"
+    "selpix/무제.canvas"
   ]
 }

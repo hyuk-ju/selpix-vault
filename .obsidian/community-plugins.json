@@ -1,4 +1,6 @@
 [
   "periodic-notes",
-  "calendar"
+  "calendar",
+  "quickadd",
+  "templater-obsidian"
 ]
