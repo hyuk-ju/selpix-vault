@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c37caad5e8587f",
+        "id": "014ad26890d084d0",
         "type": "tabs",
         "children": [
           {
-            "id": "dcdd3099aeb92175",
+            "id": "e3fb207c46d4faf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Memory/Daily/2026-02-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-20"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Memory/Daily/2026-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "2026-02-20 의 백링크"
             }
           },
           {
@@ -150,20 +155,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Memory/Daily/2026-02-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2026-02-20 의 개요"
+            }
+          },
+          {
+            "id": "06b29281c923a08a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 616.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +193,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dcdd3099aeb92175",
+  "active": "e3fb207c46d4faf9",
   "lastOpenFiles": [
+    "Projects/셀픽스-쿠팡-파이프라인.md",
+    "Memory/Daily/2026-02-17.md",
+    "Memory/Daily/2026-02-20.md",
+    "Memory/Daily/2026-02-05.md",
+    "Memory/Daily/2026-02-16.md",
+    "무제 1.canvas",
+    "무제.canvas",
+    "Projects/TikTok-콘텐츠-자동화.md",
+    "Tasks/할일-보드.md",
+    "CLAUDE.md",
+    "README.md",
+    "📊 대시보드.md",
+    "Research/비즈니스-방향.md",
+    "Research/소싱-트렌드-분석.md",
     "Research/AI트렌드/2026-02-14.md",
     "Research/AI트렌드/2026-02-04.md",
     "Research/AI트렌드/index.md",
@@ -196,22 +226,10 @@
     "Research/AI트렌드/2026-02-07.md",
     "Research/AI트렌드",
     "Research/트렌드-아카이브.md",
-    "Research/비즈니스-방향.md",
-    "Research/소싱-트렌드-분석.md",
-    "📊 대시보드.md",
-    "Memory/장기기억.md",
-    "Memory/Daily/2026-02-13.md",
-    "History/지금까지-한-일.md",
-    "Memory/PRODUCT_SELECTION_MANUAL.md",
-    "Projects/셀픽스-쿠팡-파이프라인.md",
-    "Memory/Daily/active_memory.md",
-    "Memory/Daily/TEMPLATE.md",
-    "Memory/active_memory.md",
     "Finance",
     "Assets",
     "Business",
     "Sourcing",
-    "무제.canvas",
     "selpix/무제.canvas",
     "Research",
     "History"
