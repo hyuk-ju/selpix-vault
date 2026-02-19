@@ -81,3 +81,11 @@ graph TD
 ### 🔗 How They Connect?
 - **Delegation Protocol**: Manager는 직접 손을 쓰기보다, "Dev에게 스크린샷 찍어, Scout에게 조사해"라고 **위임 명령**을 내립니다.
 - **Shared Memory**: 모든 파일(`data/`, `workspace/`)은 공유되므로, Scout이 조사한 자료를 Planner가 읽어서 바로 기획서를 쓸 수 있습니다.
+
+---
+## 관련 문서
+- [[📊 대시보드|📊 대시보드]]
+- [[Projects/셀픽스-쿠팡-파이프라인|🛒 쿠팡 파이프라인]]
+- [[Memory/운영-규칙|⚙️ 운영 규칙]]
+- [[Memory/장기기억|🧠 장기기억]]
+- [[History/지금까지-한-일|📅 전체 타임라인]]

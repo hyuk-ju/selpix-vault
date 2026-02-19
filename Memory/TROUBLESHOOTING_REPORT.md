@@ -34,3 +34,11 @@
 
 ---
 **Status**: Analysis complete. Waiting for your approval to execute these fixes.
+
+---
+## 관련 문서
+- [[📊 대시보드|📊 대시보드]]
+- [[Projects/셀픽스-쿠팡-파이프라인|🛒 쿠팡 파이프라인]]
+- [[Memory/운영-규칙|⚙️ 운영 규칙]]
+- [[Memory/장기기억|🧠 장기기억]]
+- [[History/지금까지-한-일|📅 전체 타임라인]]
