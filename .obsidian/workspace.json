@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "014ad26890d084d0",
+        "id": "488f652b3eeeb6c2",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fb207c46d4faf9",
+            "id": "ed468d130be666c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/클리핑-템플릿.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "클리핑-템플릿"
-            }
-          },
-          {
-            "id": "c0019f127a066a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Vault_Index/05_미디어_인덱스.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05_미디어_인덱스"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Vault_Index/05_미디어_인덱스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "05_미디어_인덱스 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -170,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Vault_Index/05_미디어_인덱스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05_미디어_인덱스 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -209,8 +188,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0019f127a066a5e",
+  "active": "98e787622580eba1",
   "lastOpenFiles": [
+    "무제",
+    "Projects/2026-02-20_신발.md",
+    "Templates/클리핑-템플릿.md",
+    "Memory/Daily/2026-02-23.md",
+    "Research/클리핑_2026-02-20_신발.md",
+    "00_Vault_Index/MOC_쿠팡 서치1.md",
+    "00_Vault_Index/MOC_쿠팡 서치.md",
+    "00_Vault_Index/05_미디어_인덱스.md",
+    "Memory/Daily/2026-02-22.md",
+    "Memory/Daily/2026-02-20.md",
     "00_Vault_Index/04_사업운영_인덱스.md",
     "00_Vault_Index/02_시장조사_인덱스.md",
     "00_Vault_Index/03_기술개발_인덱스.md",
@@ -221,25 +210,15 @@
     "00_Vault_Index/Research/02_경쟁사_해외_심층분석.md",
     "00_Vault_Index/Research/01_경쟁사_국내_심층분석.md",
     "Memory/Daily/2026-02-21.md",
-    "Memory/Daily/2026-02-20.md",
     "Memory/Daily/2026-02-17.md",
     "Memory/세컨드브레인-템플릿-사용법.md",
     "Templates/Samples/샘플_Daily_2026-02-19.md",
     "Templates/Samples/샘플_회의록_2026-02-19_쿠팡-운영-루틴-정비.md",
     "Templates/Samples/샘플_클리핑_2026-02-19_Obsidian-세컨드브레인-영상.md",
-    "Templates/클리핑-템플릿.md",
     "00_Vault_Index/06_OpenClaw_현황.md",
-    "00_Vault_Index/05_미디어_인덱스.md",
-    "00_Vault_Index/Research/04_베트남_태국_시장분석.md",
     "00_Vault_Index/Research",
     "00_Vault_Index",
-    "Templates/회의록-템플릿.md",
-    "Templates/Samples/샘플_MOC_셀픽스-쿠팡-운영.md",
-    "Templates/Daily-Note-템플릿.md",
-    "Templates/MOC-템플릿.md",
-    "무제.md",
     "Templates/Samples",
-    "Templates/README.md",
     "Templates",
     "무제 1.canvas",
     "무제.canvas",
@@ -248,7 +227,6 @@
     "Research/AI트렌드",
     "Finance",
     "Assets",
-    "Business",
     "selpix/무제.canvas"
   ]
 }

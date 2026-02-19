@@ -1,0 +1,34 @@
+{
+  "quickadd:choice:fc108cb3-9b84-43a7-bc56-d786cb9d9e65": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "quickadd:choice:6d90c2d7-5323-4c5e-a7b7-504375838099": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "quickadd:choice:2f7d9ea8-c349-48c1-b17b-87181e1374e5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "quickadd:choice:4842cdef-c159-473b-b03d-97e09990e0b1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
+}
