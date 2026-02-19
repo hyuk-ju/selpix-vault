@@ -158,7 +158,8 @@
               "title": "개요"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,12 +176,25 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "dcdd3099aeb92175",
+  "active": "0481c7e6792dc21d",
   "lastOpenFiles": [
+    "Research/AI-트위터-인텔.md",
+    "Research/AI트렌드/index.md",
+    "Research/AI트렌드/2026-02-15.md",
+    "Research/AI트렌드/2026-02-14.md",
+    "Research/AI트렌드/2026-02-13.md",
+    "Research/AI트렌드/2026-02-12.md",
+    "Research/AI트렌드/2026-02-10.md",
+    "Research/AI트렌드/2026-02-09.md",
+    "Research/AI트렌드/2026-02-08.md",
+    "Research/AI트렌드/2026-02-06.md",
+    "Research/AI트렌드/2026-02-05.md",
+    "Research/AI트렌드/2026-02-04.md",
+    "Research/AI트렌드/2026-02-07.md",
+    "Research/AI트렌드",
+    "Research/트렌드-아카이브.md",
     "Research/비즈니스-방향.md",
     "Research/소싱-트렌드-분석.md",
-    "Research/트렌드-아카이브.md",
-    "Research/AI-트위터-인텔.md",
     "📊 대시보드.md",
     "Memory/장기기억.md",
     "Memory/Daily/2026-02-13.md",
@@ -191,24 +205,13 @@
     "Memory/Daily/TEMPLATE.md",
     "Memory/active_memory.md",
     "Memory/운영-규칙.md",
-    "Memory/COUPANG_API_MANUAL.md",
-    "Memory/Daily/2026-02-03.md",
-    "CLAUDE.md",
     "Finance",
     "Assets",
     "Business",
     "Sourcing",
-    "Projects/TikTok-콘텐츠-자동화.md",
-    "Memory/AUTOMATION_DESIGN.md",
-    "2026-02-19.md",
     "무제.canvas",
     "selpix/무제.canvas",
-    "Memory/Daily/2026-02-06.md",
     "Research",
-    "History",
-    "Memory/TROUBLESHOOTING_REPORT.md",
-    "Memory/SYSTEM_STATE.md",
-    "Tasks/할일-보드.md",
-    "README.md"
+    "History"
   ]
 }
