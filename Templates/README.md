@@ -8,6 +8,12 @@
 - [[Templates/클리핑-템플릿|✂️ 클리핑 템플릿]]
 - [[Templates/Daily-Note-템플릿|📅 Daily Note 템플릿]]
 
+## 샘플 데이터
+- [[Templates/Samples/샘플_Daily_2026-02-19|📅 Daily 샘플]]
+- [[Templates/Samples/샘플_회의록_2026-02-19_쿠팡-운영-루틴-정비|📝 회의록 샘플]]
+- [[Templates/Samples/샘플_클리핑_2026-02-19_Obsidian-세컨드브레인-영상|✂️ 클리핑 샘플]]
+- [[Templates/Samples/샘플_MOC_셀픽스-쿠팡-운영|🧭 MOC 샘플]]
+
 ## 추천 사용 흐름
 1. Daily Note에서 오늘 작업 시작
 2. 회의가 있으면 회의록 생성
