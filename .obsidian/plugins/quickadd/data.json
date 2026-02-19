@@ -4,7 +4,7 @@
       "id": "2f7d9ea8-c349-48c1-b17b-87181e1374e5",
       "name": "📅 New Daily",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Daily-Note-템플릿.md",
       "fileNameFormat": {
         "enabled": true,
@@ -34,11 +34,41 @@
       "id": "6d90c2d7-5323-4c5e-a7b7-504375838099",
       "name": "📝 New Meeting",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "Templates/회의록-템플릿.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "_{{DATE:YYYY-MM-DD}}_{{VALUE:키워드}}"
+        "format": "{{DATE:YYYY-MM-DD}}_{{VALUE:주제}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Projects"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "4842cdef-c159-473b-b03d-97e09990e0b1",
+      "name": "✂️ New Clip",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/클리핑-템플릿.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "클리핑_{{DATE:YYYY-MM-DD}}_{{VALUE:키워드}}"
       },
       "folder": {
         "enabled": true,
@@ -61,52 +91,26 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "4842cdef-c159-473b-b03d-97e09990e0b1",
-      "name": "✂️ New Clip",
-      "type": "Template",
-      "command": false,
-      "templatePath": "",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
       "id": "fc108cb3-9b84-43a7-bc56-d786cb9d9e65",
       "name": "🧭 New MOC",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "Templates/MOC-템플릿.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "MOC_{{VALUE:주제}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "00_Vault_Index"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
