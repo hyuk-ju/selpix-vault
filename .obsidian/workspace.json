@@ -11,10 +11,14 @@
             "id": "ed468d130be666c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Vault_Index/Research/05_AI_SaaS_시장_트렌드.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "05_AI_SaaS_시장_트렌드"
             }
           }
         ]
@@ -184,12 +188,17 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "98e787622580eba1",
+  "active": "ed468d130be666c8",
   "lastOpenFiles": [
+    "Memory/Daily.md",
+    "00_Vault_Index/Research/01_경쟁사_국내_심층분석.md",
+    "00_Vault_Index/01_사업계획서_인덱스.md",
+    "Research/AI트렌드/2026-02-19.md",
+    "00_Vault_Index/00_HOME.md",
     "무제",
     "Projects/2026-02-20_신발.md",
     "Templates/클리핑-템플릿.md",
@@ -203,19 +212,15 @@
     "00_Vault_Index/04_사업운영_인덱스.md",
     "00_Vault_Index/02_시장조사_인덱스.md",
     "00_Vault_Index/03_기술개발_인덱스.md",
-    "00_Vault_Index/01_사업계획서_인덱스.md",
-    "00_Vault_Index/00_HOME.md",
     "00_Vault_Index/Research/05_AI_SaaS_시장_트렌드.md",
     "00_Vault_Index/Research/03_플랫폼_정책_분석.md",
     "00_Vault_Index/Research/02_경쟁사_해외_심층분석.md",
-    "00_Vault_Index/Research/01_경쟁사_국내_심층분석.md",
     "Memory/Daily/2026-02-21.md",
     "Memory/Daily/2026-02-17.md",
     "Memory/세컨드브레인-템플릿-사용법.md",
     "Templates/Samples/샘플_Daily_2026-02-19.md",
     "Templates/Samples/샘플_회의록_2026-02-19_쿠팡-운영-루틴-정비.md",
     "Templates/Samples/샘플_클리핑_2026-02-19_Obsidian-세컨드브레인-영상.md",
-    "00_Vault_Index/06_OpenClaw_현황.md",
     "00_Vault_Index/Research",
     "00_Vault_Index",
     "Templates/Samples",
