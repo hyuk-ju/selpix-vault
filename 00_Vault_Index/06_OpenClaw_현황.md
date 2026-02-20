@@ -1,3 +1,9 @@
+---
+type: index
+status: active
+tags: [agents, openclaw, system-status, operations]
+last_updated: 2026-02-20
+---
 # OpenClaw 운영 현황
 
 > 이 문서는 대화에서 공유된 OpenClaw 에이전트 시스템 현황을 기반으로 작성됨

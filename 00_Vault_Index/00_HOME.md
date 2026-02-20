@@ -1,3 +1,9 @@
+---
+type: index
+status: active
+tags: [core, home]
+last_updated: 2026-02-20
+---
 # ROD 사업 자료 Vault
 
 > 최종 업데이트: 2026-02-20
