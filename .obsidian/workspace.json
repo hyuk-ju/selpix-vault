@@ -190,6 +190,7 @@
   },
   "active": "ed468d130be666c8",
   "lastOpenFiles": [
+    "ADR/ADR-012-Outlook AI 초안 대행 에이전트 템플릿.md",
     "Research/Ideas/2026-02-21-Outlook AI 초안 대행 에이전트 템플릿.md",
     "ADR/ADR-011-Outlook AI 초안 대행 에이전트 템플릿.md",
     "Research/쿠팡트렌드/2026-02-21.md",
@@ -217,7 +218,6 @@
     "Research/BizPlans",
     "Research/Ideas/2026-02-20-OpenClaw CRM API 레이어로 영업 자동화.md",
     "ADR/ADR-001-OpenClaw CRM API 레이어로 영업 자동화.md",
-    "ADR/ADR-001-프레임워크 테스트.md",
     "Runbooks",
     "ADR",
     "Research/Ideas",
