@@ -6,6 +6,7 @@ updated: 2026-02-21
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-21-Obsidian 정리 자동화 (biz-writer 확장)]]
+confidence_level: low
 ---
 # ADR-008: Obsidian 정리 자동화 (biz-writer 확장)
 

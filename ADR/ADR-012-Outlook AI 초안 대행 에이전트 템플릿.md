@@ -6,6 +6,7 @@ updated: 2026-02-21
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-21-Outlook AI 초안 대행 에이전트 템플릿]]
+confidence_level: low
 ---
 # ADR-012: Outlook AI 초안 대행 에이전트 템플릿
 

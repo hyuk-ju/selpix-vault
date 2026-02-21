@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # 🕵️‍♀️ Product Sourcing & Selection Manual (상품 소싱 매뉴얼)
 
 이 문서는 사용자가 정의한 **"성공 확률을 높이는 핵심 방법론"**을 에이전트가 수행하기 위한 기준입니다.

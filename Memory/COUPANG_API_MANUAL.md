@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # Coupang Wing API Documentation (Manual Ingestion)
 
 Source: User Provided (from https://developers.coupangcorp.com/hc/ko/sections/360005046534)

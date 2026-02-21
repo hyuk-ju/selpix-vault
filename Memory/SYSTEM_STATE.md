@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # SYSTEM_STATE.md — 에이전트 필수 참조 (환각 방지)
 # 마지막 업데이트: 2026-02-14 (PLAN_v2 반영)
 

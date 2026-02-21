@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # ⚙️ 5단계 소싱 전략 자동화 설계도 (Automation Pipeline)
 
 사용자님이 정의한 **"필승 5단계 전략"**을 기계적으로 자동화하기 위한 설계입니다.

@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # 📡 AI 트렌드 인덱스
 
 > 트위터 AI 인텔 일별 아카이브 (02-04 ~ 02-15)

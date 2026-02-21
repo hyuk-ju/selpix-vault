@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # 🐦 AI 트위터 인텔 아카이브
 
 > 트위터 주요 AI 계정 일별 수집 (02-04 ~ 02-15)

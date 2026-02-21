@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # 🧭 MOC_셀픽스-쿠팡-운영 (샘플)
 
 > 템플릿 적용 예시용 샘플 문서

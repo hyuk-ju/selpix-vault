@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # 🧭 MOC 템플릿 (Map of Content)
 
 > 목적: 흩어진 노트를 한 장에서 탐색할 수 있는 **주제 인덱스 허브**.

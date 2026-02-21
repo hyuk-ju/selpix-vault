@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-19
+---
 # 📅 YYYY-MM-DD Daily Note
 
 ## 오늘의 한 줄 요약

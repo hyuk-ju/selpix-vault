@@ -6,6 +6,7 @@ updated: 2026-02-20
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-20-OpenClaw CRM API 레이어로 영업 자동화]]
+confidence_level: low
 ---
 # ADR-001: OpenClaw CRM API 레이어로 영업 자동화
 

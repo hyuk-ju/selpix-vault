@@ -1,3 +1,10 @@
+---
+type: research
+note_status: fleeting
+confidence_level: low
+source_agent: unknown
+created: 2026-02-20
+---
 # Intelligence Discussion Log
 
 에이전트 인텔 루프 토론 기록. 매일 11:00 KST에 자동 생성.
