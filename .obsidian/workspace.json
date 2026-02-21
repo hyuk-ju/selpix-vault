@@ -190,6 +190,7 @@
   },
   "active": "ed468d130be666c8",
   "lastOpenFiles": [
+    "ADR/ADR-20260221-인텔토론.md",
     "Research/Ideas/2026-02-21-Obsidian 정리 자동화 (biz-writer 확장).md",
     "ADR/ADR-006-Obsidian 정리 자동화 (biz-writer 확장).md",
     "Research/AI트렌드/2026-02-21.md",
@@ -216,7 +217,6 @@
     "ADR/ADR-001-AI 블로그 자동화 SaaS.md",
     "Runbooks/파이프라인-정지.md",
     "Runbooks/텔레그램-전송-실패.md",
-    "Runbooks/쿠팡-등록-실패.md",
     "Runbooks",
     "ADR",
     "Research/Ideas",
