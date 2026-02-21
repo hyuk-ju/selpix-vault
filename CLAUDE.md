@@ -106,6 +106,38 @@ vault/
 
 ---
 
+## 📋 Frontmatter 규약 (Phase 13 — MANDATORY)
+
+Vault에 새 파일을 생성할 때, 반드시 아래 frontmatter 필드를 포함한다.
+
+```yaml
+---
+type: idea-card | research | adr | project | runbook | discussion
+note_status: fleeting | literature | permanent
+confidence_level: low | medium | high
+source_agent: antigravity | claude-code | openclaw-main | codex-ops | trend-scout | biz-writer | human | agent-cron
+generated_via: idea-discussion | manual | sessions-spawn | cron | daily-briefing
+verified_by: human | agent | none
+sources: []
+created: YYYY-MM-DD
+reviewed_at: YYYY-MM-DD
+---
+```
+
+### source_agent 기준
+
+| 생성 주체 | source_agent | confidence 기본값 |
+|---|---|---|
+| Antigravity (AI 어시스턴트) | `antigravity` | `medium` |
+| Claude Code CLI | `claude-code` | `medium` |
+| 사용자 직접 작성 | `human` | `high` |
+| OpenClaw 메인 | `openclaw-main` | `medium` |
+| 크론 자동 실행 | `agent-cron` | `low` |
+
+> **표기 없으면**: `vault_health_check.js`가 매월 1일 자동으로 `confidence_level: low` 패치.
+
+---
+
 ## 작업 후 반드시 할 것
 
 1. `📊 대시보드.md` — 새 파일 링크 추가 (필요 시)
