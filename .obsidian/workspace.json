@@ -190,6 +190,7 @@
   },
   "active": "ed468d130be666c8",
   "lastOpenFiles": [
+    "docs",
     "Research/OpenClaw_Architecture_Insights.md",
     "Projects/2026-02-22_n8n_하이브리드_아키텍처_기획.md",
     "Research/Ideas/2026-02-22-랜딩페이지 세일즈 챗봇 기반 자동 영업.md",
@@ -216,7 +217,6 @@
     "Research/AI트렌드/2026-02-21.md",
     "ADR/ADR-005-Obsidian 정리 자동화 (biz-writer 확장).md",
     "ADR/ADR-004-Obsidian 정리 자동화 (biz-writer 확장).md",
-    "Research/Ideas/2026-02-20-Obsidian 정리 자동화 (biz-writer 확장).md",
     "Research/BizPlans",
     "Runbooks",
     "ADR",
