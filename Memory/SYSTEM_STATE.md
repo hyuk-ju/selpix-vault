@@ -77,8 +77,8 @@ created: 2026-02-19
 ### 위치 (정답)
 ```
 /home/dev/openclaw/.env
-  NAVER_CLIENT_ID=qeHhYZCLJwxQdfern9rk
-  NAVER_CLIENT_SECRET=c3OqbBmp1F
+  NAVER_CLIENT_ID=<set-in-env>
+  NAVER_CLIENT_SECRET=<set-in-env>
 ```
 
 ### 오답 (에이전트가 자주 틀리는 것)
