@@ -166,16 +166,13 @@ digest-evening:   20:00 KST → 오후 축적분 요약
 
 ---
 
-## Priority 5: 도매꾹 Official API 전환
+## ~~Priority 5: 도매꾹 Official API 전환~~ — 삭제
 
-### 구현 계획
-1. 도매꾹 OpenAPI 키 발급 (사용자 액션 필요)
-2. `pipeline_sourcing.js`의 스크래핑 로직을 API 호출로 교체
-3. 기존 데이터 형식 호환 유지
+> **삭제 사유**: 도매꾹 Private API 이미 승인('25.08) 및 사용 중. 불필요한 항목.
 
 ---
 
-## Priority 6: Per-Agent KPI Dashboard
+## Priority 5: Per-Agent KPI Dashboard (기존 6번)
 
 ### 구현 계획
 1. `weekly-kpi-review` 크론잡의 프롬프트 개선
