@@ -36,3 +36,10 @@ created: 2026-02-21
 - 🟢 [IN-04] rejected ADR 미기록: 2건
 - 🟡 [IF-07] config 레포 미push: ahead 12 ✅수정
 - 🟠 [RG-01] 리뷰 게이트 정체: 7건 72h+ 미리뷰
+
+### 2026-02-25 — 일일 감사
+총 2건: CRITICAL 0 | HIGH 0 | MEDIUM 1 | LOW 1
+자동 수정: 1건
+
+- 🟢 [IN-04] rejected ADR 미기록: 3건
+- 🟡 [IF-07] config 레포 미push: ahead 17 ✅수정
