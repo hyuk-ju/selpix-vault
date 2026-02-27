@@ -4,6 +4,7 @@ status: completed
 tags: [idea, openclaw]
 created: 2026-02-21
 confidence_level: low
+source_agent: biz-writer
 ---
 # Obsidian 정리 자동화 (biz-writer 확장)
 

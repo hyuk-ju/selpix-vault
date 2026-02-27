@@ -2,7 +2,7 @@
 type: research
 note_status: fleeting
 confidence_level: low
-source_agent: unknown
+source_agent: openclaw-main
 created: 2026-02-19
 ---
 # 🧭 MOC 템플릿 (Map of Content)

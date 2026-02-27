@@ -1,5 +1,5 @@
 ---
-type: log
+type: discussion
 status: active
 note_status: permanent
 confidence_level: high

@@ -6,6 +6,8 @@ updated: 2026-02-21
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-21-AI 모의 테스트 아이디어]]
+confidence_level: low
+source_agent: biz-writer
 ---
 # ADR-013: AI 모의 테스트 아이디어
 

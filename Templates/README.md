@@ -1,5 +1,5 @@
 ---
-type: reference
+type: research
 note_status: permanent
 confidence_level: low
 source_agent: human

@@ -6,6 +6,8 @@ updated: 2026-02-23
 owner: main
 tags: [idea, standalone, adr]
 related: [[Research/Ideas/2026-02-23-콘텐츠 제작 자동화로 제작비를 60- 낮추는 문서형 SaaS]]
+confidence_level: low
+source_agent: biz-writer
 ---
 # ADR-018: 콘텐츠 제작 자동화로 제작비를 60% 낮추는 문서형 SaaS
 

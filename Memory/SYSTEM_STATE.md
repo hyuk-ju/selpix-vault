@@ -2,7 +2,7 @@
 type: research
 note_status: fleeting
 confidence_level: low
-source_agent: unknown
+source_agent: openclaw-main
 created: 2026-02-19
 ---
 # SYSTEM_STATE.md — 에이전트 필수 참조 (환각 방지)

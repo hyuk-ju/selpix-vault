@@ -8,6 +8,7 @@ reviewed_at: 2026-02-21
 sources: []
 tags: [idea, openclaw]
 created: 2026-02-21
+source_agent: biz-writer
 ---
 # Outlook AI 초안 대행 에이전트 템플릿
 

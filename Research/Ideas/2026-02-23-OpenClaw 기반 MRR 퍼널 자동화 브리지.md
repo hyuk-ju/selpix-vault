@@ -8,6 +8,7 @@ reviewed_at: 2026-02-23
 sources: []
 tags: [idea, openclaw]
 created: 2026-02-23
+source_agent: biz-writer
 ---
 # OpenClaw 기반 MRR 퍼널 자동화 브리지
 

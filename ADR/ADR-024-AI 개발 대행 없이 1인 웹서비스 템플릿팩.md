@@ -6,6 +6,8 @@ updated: 2026-02-25
 owner: main
 tags: [idea, standalone, adr]
 related: [[Research/Ideas/2026-02-25-AI 개발 대행 없이 1인 웹서비스 템플릿팩]]
+confidence_level: low
+source_agent: biz-writer
 ---
 # ADR-024: AI 개발 대행 없이 1인 웹서비스 템플릿팩
 

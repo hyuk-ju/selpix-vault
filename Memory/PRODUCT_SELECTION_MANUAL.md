@@ -2,7 +2,7 @@
 type: research
 note_status: fleeting
 confidence_level: low
-source_agent: unknown
+source_agent: openclaw-main
 created: 2026-02-19
 ---
 # 🕵️‍♀️ Product Sourcing & Selection Manual (상품 소싱 매뉴얼)

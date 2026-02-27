@@ -6,6 +6,8 @@ updated: 2026-02-26
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-26-AI 운영시스템 템플릿 번들(1인 비즈니스 운영용)]]
+confidence_level: low
+source_agent: biz-writer
 ---
 # ADR-026: AI 운영시스템 템플릿 번들(1인 비즈니스 운영용)
 

@@ -1,9 +1,10 @@
 ---
-type: business-plan
+type: idea-card
 status: generated
 tags: [idea, openclaw, bizplan]
 created: 2026-02-20
 confidence_level: low
+source_agent: biz-writer
 ---
 # 사업계획서: OpenClaw CRM API 레이어로 영업 자동화
 

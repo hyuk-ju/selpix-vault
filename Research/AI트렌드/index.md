@@ -2,7 +2,7 @@
 type: research
 note_status: fleeting
 confidence_level: low
-source_agent: unknown
+source_agent: trend-scout
 created: 2026-02-19
 ---
 # 📡 AI 트렌드 인덱스

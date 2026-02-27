@@ -4,6 +4,7 @@ status: completed
 tags: [idea, openclaw]
 created: 2026-02-20
 confidence_level: low
+source_agent: biz-writer
 ---
 # OpenClaw CRM API 레이어로 영업 자동화
 

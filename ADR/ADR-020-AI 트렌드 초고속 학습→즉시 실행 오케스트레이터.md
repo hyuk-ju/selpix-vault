@@ -6,6 +6,8 @@ updated: 2026-02-24
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-24-AI 트렌드 초고속 학습→즉시 실행 오케스트레이터]]
+confidence_level: low
+source_agent: biz-writer
 ---
 # ADR-020: AI 트렌드 초고속 학습→즉시 실행 오케스트레이터
 

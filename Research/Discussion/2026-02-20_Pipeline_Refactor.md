@@ -1,10 +1,11 @@
 ---
-type: log
+type: discussion
 status: final
 tags: [architecture, pipeline, decision-log, trend-driven]
 last_updated: 2026-02-20
 confidence_level: low
 created: 2026-02-21
+source_agent: trend-scout
 ---
 # 인텔 토론 — 기획안: 트렌드 주도형 소싱 아키텍처 (2026-02-20)
 
