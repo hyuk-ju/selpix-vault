@@ -1,3 +1,14 @@
+---
+type: reference
+note_status: permanent
+confidence_level: low
+source_agent: human
+generated_via: manual
+verified_by: none
+sources: []
+created: 2026-02-27
+reviewed_at: 2026-02-27
+---
 # 📚 템플릿 인덱스
 
 세컨드 브레인 운영용 기본 템플릿 모음.

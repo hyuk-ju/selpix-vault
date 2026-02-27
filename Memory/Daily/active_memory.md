@@ -1,3 +1,14 @@
+---
+type: reference
+note_status: permanent
+confidence_level: low
+source_agent: openclaw-main
+generated_via: manual
+verified_by: none
+sources: []
+created: 2026-02-27
+reviewed_at: 2026-02-27
+---
 # Active Memory
 <!-- Updated: 2026-02-19T03:00:30.178785 -->
 <!-- Token estimate: 10683 -->

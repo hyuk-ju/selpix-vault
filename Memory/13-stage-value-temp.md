@@ -1,3 +1,14 @@
+---
+type: reference
+note_status: permanent
+confidence_level: low
+source_agent: openclaw-main
+generated_via: manual
+verified_by: none
+sources: []
+created: 2026-02-27
+reviewed_at: 2026-02-27
+---
 ## 2026-02-25 운영 고정값 (벨류) — 상세페이지 빌더 13단계 마케팅 심리학 템플릿 통합 완료
 - 변경/결정: 
   - Selpix 상세페이지 빌더(`detail-builder`) 코어 엔진에 마케팅 심리학 기반의 13단계 세일즈 파이프라인(Hook -> Problem -> Agitation -> Solution -> USP -> How it Works -> Testimonial -> Authority -> Benefits -> Offer -> Risk Reversal -> FAQ -> CTA) 신규 템플릿 추가 및 AI 프롬프트 지시어 통합. 

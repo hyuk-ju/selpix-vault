@@ -1,3 +1,14 @@
+---
+type: reference
+note_status: permanent
+confidence_level: low
+source_agent: openclaw-main
+generated_via: manual
+verified_by: none
+sources: []
+created: 2026-02-27
+reviewed_at: 2026-02-27
+---
 # openclaw 메모리 표준
 
 ## 목적

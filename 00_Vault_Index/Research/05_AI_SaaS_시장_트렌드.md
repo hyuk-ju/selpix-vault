@@ -1,3 +1,14 @@
+---
+type: research
+note_status: literature
+confidence_level: low
+source_agent: openclaw-main
+generated_via: sessions-spawn
+verified_by: none
+sources: []
+created: 2026-02-27
+reviewed_at: 2026-02-27
+---
 # AI SaaS & 이커머스 자동화 시장 트렌드
 
 > 조사일: 2026-02-20 | 출처: Precedence Research, Fortune Business Insights, DemandSage, Shopify, Envive AI 등

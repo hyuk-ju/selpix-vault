@@ -1,3 +1,14 @@
+---
+type: reference
+note_status: permanent
+confidence_level: low
+source_agent: openclaw-main
+generated_via: manual
+verified_by: none
+sources: []
+created: 2026-02-27
+reviewed_at: 2026-02-27
+---
 ### 2026-02-25 17:18 — 비즈니스 모델(벨류) 확장
 - **변경**: Selpix 상세페이지 생성기에 13단계 세일즈 파이프라인(유튜브 공식) 템플릿 통합 및 랜딩페이지 Features 표출.
 - **사유**: 기존의 일반 템플릿 제공에서 한발짝 나아가, '마케팅 심리학'에 기반하여 페인포인트부터 결제 유도까지 강력한 전환율을 이끌어내는 고효율 카피 생성기를 제공함으로써 Selpix SaaS의 본질적 가치(Value Proposition) 강화.
