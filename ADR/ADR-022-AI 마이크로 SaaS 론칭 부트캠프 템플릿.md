@@ -6,6 +6,7 @@ updated: 2026-02-27
 owner: main
 tags: [idea, standalone, adr]
 related: [[Research/Ideas/2026-02-27-AI 마이크로 SaaS 론칭 부트캠프 템플릿]]
+confidence_level: low
 ---
 # ADR-022: AI 마이크로 SaaS 론칭 부트캠프 템플릿
 
