@@ -58,7 +58,7 @@ last_updated: 2026-02-20
 | 🥇 | 쿠팡 API 불안정 | 반려 이유 불명확, 임시저장 고착, MOQ 경로 오류 |
 | 🥈 | ops-dev 컨텍스트 한계 | codex 모델 window 작음, 긴 지시 즉시 실패 |
 | 🥉 | 트위터 인증 만료 | bird.env CT0 토큰 주기적 만료 → twitter-intel 중단 |
-| 4 | 메모리 검색 불가 | OpenAI embedding API 없어 memory_search 작동 안 함 |
+| 4 | ~~메모리 검색 불가~~ 해결됨 | ChromaDB 벡터 검색 활성화 (2026-03-02). `searchVault()` + 크론 자동 인덱싱 |
 | 5 | 게이트웨이 동시성 | 크론 다수 동시 trigger 시 타임아웃 |
 
 ---
@@ -68,7 +68,7 @@ last_updated: 2026-02-20
 1. **쿠팡 API 오류 패턴 문서화** → 반려 사유별 자동 대응 로직 (장에게 위임)
 2. **ops-dev task 파일 패턴 강제화** → AGENTS.md에 "장 위임 시 무조건 current_task.md 경유" 규칙 추가
 3. **bird.env 자동갱신 알림 크론** → 토큰 만료 전 선제 알림
-4. **memory_search 대안** → `scripts/memory_search.sh` 활용 (이미 존재, 습관화 필요)
+4. ~~memory_search 대안~~ **해결됨** → ChromaDB 벡터 검색 + `searchVault()` + 크론 자동 인덱싱 (2026-03-02)
 
 ---
 
