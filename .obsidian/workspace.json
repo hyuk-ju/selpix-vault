@@ -11,10 +11,14 @@
             "id": "ed468d130be666c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Runbooks/파이프라인-정지.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "파이프라인-정지"
             }
           }
         ]
@@ -188,8 +192,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed468d130be666c8",
+  "active": "98e787622580eba1",
   "lastOpenFiles": [
+    "Research/2026-03-01-텔레그램-에러-분석.md",
+    "Runbooks/텔레그램-전송-실패.md",
+    "Runbooks/쿠팡-등록-실패.md",
+    "Finance/매출-마진-추적.md",
+    "Business/사업-현황-요약.md",
     "Research/쿠팡트렌드/2026-03-01.md",
     "Memory/Daily/2026-03-01.md",
     "ADR/ADR-20260301-인텔토론.md",
@@ -197,12 +206,9 @@
     "Research/AI트렌드/2026-03-01.md",
     "ADR/ADR-025-전자책 자동 제작·배포 에이전트.md",
     "Research/Ideas/2026-02-28-전자책 자동 제작·배포 에이전트.md",
-    "Business/사업-현황-요약.md",
     "Sourcing/소싱-히스토리.md",
-    "Finance/매출-마진-추적.md",
     "Products/등록-상품-목록.md",
     "Research/트렌드-아카이브.md",
-    "Runbooks/쿠팡-등록-실패.md",
     "ADR/ADR-017-OpenClaw 기반 MRR 퍼널 자동화 브리지.md",
     "Research/Ideas/2026-02-23-OpenClaw 기반 MRR 퍼널 자동화 브리지.md",
     "ADR/ADR-20260223-인텔토론.md",
@@ -215,8 +221,6 @@
     "Research/쿠팡트렌드/2026-02-22.md",
     "Research/AI-브라우저-에이전트-조사.md",
     "Memory/audit_log.md",
-    "00_Vault_Index/06_OpenClaw_현황.md",
-    "Projects/2026-02-21_Multi_Agent_Refactoring.md",
     "Research/쿠팡트렌드",
     "Research/BizPlans",
     "Runbooks",
