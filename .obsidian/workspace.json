@@ -207,6 +207,10 @@
   },
   "active": "4f3120c635658c36",
   "lastOpenFiles": [
+    "Research/Ideas/2026-03-01-Ultramemory-현황-OpenClaw-비교.md",
+    "Research/Ideas/2026-03-01-텔레그램-메시지-RAG-인덱싱.md",
+    "Research/Operations/2026-03-01-OpenClaw-통합-최적화.md",
+    "Research/Operations",
     "Research/Ideas/2026-03-01-Obsidian-CLI-MCP-분석.md",
     "Runbooks/자동생성-UNKNOWN.md",
     "Runbooks/자동생성-AUTH_RATE_LIMIT.md",
@@ -230,9 +234,6 @@
     "Research/2026-03-01-서버-리소스-정리-계획.md",
     "Research/쿠팡트렌드/20260301-쿠팡-1년-데이터-인사이트.md",
     "Research/2026-03-01-실제-오류-근본-원인-분석.md",
-    "Products/20260301-쿠팡-취소율-분석.md",
-    "Products/20260301-쿠팡-카테고리별-실적.md",
-    "Products/20260301-쿠팡-상품별-실적-총괄.md",
     "docs",
     "Research/쿠팡트렌드",
     "Research/BizPlans",
@@ -242,7 +243,6 @@
     "Research/Discussion",
     "무제",
     "00_Vault_Index/Research",
-    "00_Vault_Index",
     "무제 1.canvas",
     "무제.canvas",
     "selpix/무제.canvas"
