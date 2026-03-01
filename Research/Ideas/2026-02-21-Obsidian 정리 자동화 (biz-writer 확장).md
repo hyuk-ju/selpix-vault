@@ -3,8 +3,10 @@ type: idea-card
 status: completed
 tags: [idea, openclaw]
 created: 2026-02-21
-confidence_level: low
+confidence_level: medium
 source_agent: biz-writer
+verified_by: human
+reviewed_at: 2026-03-01
 ---
 # Obsidian 정리 자동화 (biz-writer 확장)
 

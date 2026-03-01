@@ -6,8 +6,10 @@ updated: 2026-02-23
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-23-OpenClaw 기반 MRR 퍼널 자동화 브리지]]
-confidence_level: low
+confidence_level: medium
 source_agent: biz-writer
+verified_by: human
+reviewed_at: 2026-03-01
 ---
 # ADR-017: OpenClaw 기반 MRR 퍼널 자동화 브리지
 

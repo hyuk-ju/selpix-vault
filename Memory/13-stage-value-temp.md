@@ -1,13 +1,13 @@
 ---
 type: discussion
 note_status: permanent
-confidence_level: low
+confidence_level: medium
 source_agent: openclaw-main
 generated_via: manual
-verified_by: none
+verified_by: human
 sources: []
 created: 2026-02-27
-reviewed_at: 2026-02-27
+reviewed_at: 2026-03-01
 ---
 ## 2026-02-25 운영 고정값 (벨류) — 상세페이지 빌더 13단계 마케팅 심리학 템플릿 통합 완료
 - 변경/결정: 

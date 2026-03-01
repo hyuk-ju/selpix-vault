@@ -1,13 +1,13 @@
 ---
 type: project
 note_status: permanent
-confidence_level: low
+confidence_level: medium
 source_agent: openclaw-main
 generated_via: sessions-spawn
-verified_by: none
+verified_by: human
 sources: []
 created: 2026-02-21
-reviewed_at: 2026-02-27
+reviewed_at: 2026-03-01
 ---
 # 멀티 에이전트 아키텍처 리팩토링 기획 (v2 - 종합 검토 반영)
 

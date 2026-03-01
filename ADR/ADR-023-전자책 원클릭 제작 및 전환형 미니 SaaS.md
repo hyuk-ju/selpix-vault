@@ -6,8 +6,10 @@ updated: 2026-02-25
 owner: main
 tags: [idea, standalone, adr]
 related: [[Research/Ideas/2026-02-25-전자책 원클릭 제작 및 전환형 미니 SaaS]]
-confidence_level: low
+confidence_level: medium
 source_agent: biz-writer
+verified_by: human
+reviewed_at: 2026-03-01
 ---
 # ADR-023: 전자책 원클릭 제작 및 전환형 미니 SaaS
 

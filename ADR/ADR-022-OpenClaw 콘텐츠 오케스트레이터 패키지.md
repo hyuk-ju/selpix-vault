@@ -6,8 +6,10 @@ updated: 2026-02-25
 owner: main
 tags: [idea, openclaw, adr]
 related: [[Research/Ideas/2026-02-25-OpenClaw 콘텐츠 오케스트레이터 패키지]]
-confidence_level: low
+confidence_level: medium
 source_agent: biz-writer
+verified_by: human
+reviewed_at: 2026-03-01
 ---
 # ADR-022: OpenClaw 콘텐츠 오케스트레이터 패키지
 

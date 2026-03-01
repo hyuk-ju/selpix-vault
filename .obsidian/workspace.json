@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "파이프라인-정지"
             }
+          },
+          {
+            "id": "4f3120c635658c36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +205,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "98e787622580eba1",
+  "active": "4f3120c635658c36",
   "lastOpenFiles": [
+    "Runbooks/자동생성-UNKNOWN.md",
+    "Runbooks/자동생성-AUTH_RATE_LIMIT.md",
+    "Runbooks/자동생성-DELIVERY_TARGET.md",
+    "Runbooks/자동생성-BRANCH_GATE.md",
+    "Runbooks/자동생성-TIMEOUT_RELAY.md",
+    "Business/niche_strategy.md",
+    "ADR/ADR-030-에러-학습-루프-설계.md",
     "Research/20260301-쿠팡-API-검색노출-필드-가이드.md",
     "Business/20260301-쿠팡-상품명-경쟁사-실전-패턴.md",
     "Business/20260301-쿠팡-SEO-베스트셀러-분석-가이드.md",
@@ -213,13 +233,6 @@
     "Products/20260301-쿠팡-카테고리별-실적.md",
     "Products/20260301-쿠팡-상품별-실적-총괄.md",
     "Finance/20260301-쿠팡-광고비-대비-ROAS-분석.md",
-    "Finance/20260301-쿠팡-월별-매출-분석.md",
-    "Finance/20260301-쿠팡-매출-일별-요약.md",
-    "Projects/20260301-쿠팡-데이터-Vault-적용-계획.md",
-    "Research/2026-03-01-텔레그램-에러-분석.md",
-    "Runbooks/텔레그램-전송-실패.md",
-    "Runbooks/쿠팡-등록-실패.md",
-    "Finance/매출-마진-추적.md",
     "docs",
     "Research/쿠팡트렌드",
     "Research/BizPlans",
