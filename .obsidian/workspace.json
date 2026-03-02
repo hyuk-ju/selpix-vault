@@ -207,6 +207,8 @@
   },
   "active": "4f3120c635658c36",
   "lastOpenFiles": [
+    "Research/AI트렌드/2026-03-02.sync-conflict-20260302-000351-VFDWOQ5.md",
+    "Research/AI트렌드/2026-03-02.md",
     "Memory/Conversations/2026-02-19.md",
     "Memory/Conversations/2026-02-22.md",
     "Memory/Conversations/2026-02-25.md",
@@ -233,8 +235,6 @@
     "Runbooks/자동생성-DELIVERY_TARGET.md",
     "Runbooks/자동생성-BRANCH_GATE.md",
     "Runbooks/자동생성-TIMEOUT_RELAY.md",
-    "Business/niche_strategy.md",
-    "ADR/ADR-030-에러-학습-루프-설계.md",
     "docs",
     "Research/쿠팡트렌드",
     "Research/BizPlans",
