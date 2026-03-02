@@ -207,6 +207,8 @@
   },
   "active": "4f3120c635658c36",
   "lastOpenFiles": [
+    "Research/틈새분석/20260302-틈새-리포트.md",
+    "Research/틈새분석",
     "Memory/Conversations/2026-03-02.md",
     "Memory/Daily/2026-03-02.md",
     "ADR/ADR-20260302-인텔토론.md",
@@ -233,7 +235,6 @@
     "Research/2026-03-01_최신_RAG_벡터화_리서치.md",
     "Research/Ideas/2026-03-01-Ultramemory-현황-OpenClaw-비교.md",
     "Research/Ideas/2026-03-01-텔레그램-메시지-RAG-인덱싱.md",
-    "Research/Operations/2026-03-01-OpenClaw-통합-최적화.md",
     "Research/Operations",
     "docs",
     "Research/쿠팡트렌드",
@@ -242,7 +243,6 @@
     "ADR",
     "Research/Ideas",
     "Research/Discussion",
-    "무제",
     "무제 1.canvas",
     "무제.canvas",
     "selpix/무제.canvas"
