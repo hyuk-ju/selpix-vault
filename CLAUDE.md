@@ -139,17 +139,18 @@ reviewed_at: YYYY-MM-DD
 ---
 ```
 
-### source_agent 기준
+### confidence_level 자동 판정 (경로 기반)
 
-| 생성 주체 | source_agent | confidence 기본값 |
-|---|---|---|
-| Antigravity (AI 어시스턴트) | `antigravity` | `medium` |
-| Claude Code CLI | `claude-code` | `medium` |
-| 사용자 직접 작성 | `human` | `high` |
-| OpenClaw 메인 | `openclaw-main` | `medium` |
-| 크론 자동 실행 | `agent-cron` | `low` |
+`rag_indexer.py`가 인덱싱 시 **경로 + type**으로 자동 부여. frontmatter 값은 무시됨.
 
-> **표기 없으면**: `vault_health_check.js`가 매월 1일 자동으로 `confidence_level: low` 패치.
+| confidence | 판정 기준 |
+|---|---|
+| `high` | `Finance/`, `Products/`, `Runbooks/` |
+| `medium` | `ADR/`, `Research/Ideas/`, `Projects/`, `Business/`, `Sourcing/` 또는 type이 adr/research/project |
+| `low` | 나머지 전부 (`Memory/`, `Templates/`, `History/`, `00_Vault_Index/` 등) |
+
+> **누가 썼는지는 상관없다** — 사람이든 AI든 경로와 내용 구조로만 판정.
+> frontmatter의 `confidence_level`은 레거시. 인덱서가 덮어씀.
 
 ---
 
