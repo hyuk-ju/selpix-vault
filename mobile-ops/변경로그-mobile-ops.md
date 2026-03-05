@@ -59,8 +59,29 @@ reviewed_at: 2026-03-05
 
 - **변경**: 기존 아이디어→코딩 파이프라인에 project_registry + Claude Bridge 통합
 - **수정 파일**:
-  - `trigger_bkit_coding.js` — 프로젝트 생성 시 `addProject()`로 registry 자동 등록
-  - `run_coding_execution.js` — `resolveProjectDir()`로 registry 경로 지원, Claude Bridge `planProject()` (init 시) + `reviewProject()` (전체 완료 시) 자동 호출, 지시 파일에 Claude Bridge 사용 안내 추가
+  - `trigger_bkit_coding.js` — 프로젝트 생성 시 `addProject()`로 registry 자동 등록 (+8줄)
+  - `run_coding_execution.js` — `resolveProjectDir()`로 registry 경로 지원, Claude Bridge plan/review 자동 호출, 지시 파일에 Bridge 안내 추가 (+50줄)
 - **사유**: 기존 `coding:auto` / `coding:manual` 버튼 플로우가 project_registry, Claude Bridge와 분리되어 있었음
-- **영향**: 아이디어 승인→조사→코딩 버튼 클릭 → ops-dev가 Claude plan/review 받으며 자동 코딩하는 전체 플로우 완성
+- **설계**: 모든 Claude Bridge 호출은 **fail-open** — 실패해도 코딩은 정상 진행
 - **롤백**: git revert (두 파일 수정만, 기존 동작 보존)
+
+**연결된 전체 플로우**:
+```
+아이디어 제출 → process_idea.js (승인/토론)
+    ↓
+run_idea_discussion.js (4단계 분석: 시장→기술→비즈→비평)
+    ↓
+trigger_bkit_coding.js --trigger
+  ├── PDCA Plan/Design 문서 생성
+  ├── ★ project_registry에 자동 등록 (NEW)
+  └── 텔레그램 [자동 코딩] [수동 코딩] 버튼
+    ↓
+run_coding_execution.js --init (자동 코딩 선택 시)
+  ├── coding_steps.json 생성
+  ├── ★ Claude Bridge planProject() → claude_plan.json (NEW)
+  └── ops-dev가 스텝별 자동 구현
+    ↓
+--complete (스텝 완료 시)
+  ├── 진행 알림
+  └── ★ 전체 완료 시 Claude Bridge reviewProject() → claude_review.json (NEW)
+```
