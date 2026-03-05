@@ -54,3 +54,13 @@ reviewed_at: 2026-03-05
 - **수정**: `workspace-dev/SOUL.md` §9 — 아이디어→코딩→배포 워크플로우 추가
 - **사유**: ops-dev가 Claude Bridge로 독립 프로젝트(mobile-ops 등) 코딩 가능하게
 - **영향**: ops-dev가 `claude.planProject('mobile-ops', ...)` 식으로 계획/리뷰 사용 가능
+
+### 2026-03-05 19:30 — 아이디어 파이프라인 ↔ Claude Bridge 연결
+
+- **변경**: 기존 아이디어→코딩 파이프라인에 project_registry + Claude Bridge 통합
+- **수정 파일**:
+  - `trigger_bkit_coding.js` — 프로젝트 생성 시 `addProject()`로 registry 자동 등록
+  - `run_coding_execution.js` — `resolveProjectDir()`로 registry 경로 지원, Claude Bridge `planProject()` (init 시) + `reviewProject()` (전체 완료 시) 자동 호출, 지시 파일에 Claude Bridge 사용 안내 추가
+- **사유**: 기존 `coding:auto` / `coding:manual` 버튼 플로우가 project_registry, Claude Bridge와 분리되어 있었음
+- **영향**: 아이디어 승인→조사→코딩 버튼 클릭 → ops-dev가 Claude plan/review 받으며 자동 코딩하는 전체 플로우 완성
+- **롤백**: git revert (두 파일 수정만, 기존 동작 보존)
