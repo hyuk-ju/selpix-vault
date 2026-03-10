@@ -141,3 +141,10 @@ created: 2026-02-21
 자동 수정: 0건
 
 - 🟡 [RG-02] 리뷰 거절 미해결: 1건
+
+### 2026-03-10 — 일일 감사
+총 2건: CRITICAL 0 | HIGH 0 | MEDIUM 2 | LOW 0
+자동 수정: 0건
+
+- 🟡 [CR-04] 크론 최근 에러: windows-llm-request-handler
+- 🟡 [RG-02] 리뷰 거절 미해결: 1건
