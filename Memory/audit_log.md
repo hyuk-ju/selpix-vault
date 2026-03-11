@@ -148,3 +148,9 @@ created: 2026-02-21
 
 - 🟡 [CR-04] 크론 최근 에러: windows-llm-request-handler
 - 🟡 [RG-02] 리뷰 거절 미해결: 1건
+
+### 2026-03-11 — 일일 감사
+총 1건: CRITICAL 0 | HIGH 0 | MEDIUM 1 | LOW 0
+자동 수정: 0건
+
+- 🟡 [RG-02] 리뷰 거절 미해결: 1건
