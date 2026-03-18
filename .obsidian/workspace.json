@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "벡터",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4f3120c635658c36",
+  "active": "98e787622580eba1",
   "lastOpenFiles": [
     "Research/에이전트성과/2026-03-05-역량테스트-실행기록-전체분석.md",
     "ADR/ADR-031-에이전트-역량테스트-문제점-분석.md",
