@@ -1,0 +1,133 @@
+{
+  "timestamp": "2026-03-18 09:21:32",
+  "top_k": 5,
+  "num_cases": 5,
+  "summary": {
+    "llm_context_precision_with_reference": 0.24,
+    "context_recall": 0.2,
+    "faithfulness": 0.575,
+    "factual_correctness(mode=f1)": 0.0
+  },
+  "details": [
+    {
+      "question": "쿠팡 Vendor ID가 뭐야?",
+      "ground_truth": "A01410454",
+      "response": "정보 없음",
+      "retrieved_paths": [
+        "Projects/셀픽스-쿠팡-파이프라인.md",
+        "Products/등록-상품-목록.md",
+        "Memory/장기기억.md",
+        "00_Vault_Index/Research/03_플랫폼_정책_분석.md",
+        "Memory/Daily/2026-02-16.md"
+      ],
+      "retrieved_scores": [
+        0.4877655506134033,
+        0.5131891965866089,
+        0.5396177172660828,
+        0.5652022957801819,
+        0.5757622718811035
+      ],
+      "num_contexts": 5,
+      "llm_context_precision_with_reference": 0.0,
+      "context_recall": 0.0,
+      "faithfulness": 0.0,
+      "factual_correctness(mode=f1)": 0.0
+    },
+    {
+      "question": "에이전트 간 위임 규칙은?",
+      "ground_truth": "SOUL.md §0 라우팅 게이트에 정의, 키워드 매칭으로 강제 위임",
+      "response": "에이전트 간 위임 규칙은 다음과 같습니다: 위임은 선언으로 끝내지 않고, 결과를 반드시 사용자에게 다시 전달해야 하며, 메인은 직접 실무보다 라우팅과 결과 전달에 집중해야 합니다. 위임 후에는 결과 도착 시 사용자용으로 재정리해 반드시 전달해야 하며, '완료되면 전달할게'로 끝내고 누락하지 않아야 합니다.",
+      "retrieved_paths": [
+        "Runbooks/ValuePacks/20260308-에이전트-위임-결과전달-규칙.md",
+        "Projects/2026-02-21_비트코인_다중_에이전트_매매봇_기획.md",
+        "Templates/벨류팩-템플릿.md",
+        "ADR/ADR-20260303-인텔토론.md",
+        "Research/Ideas/2026-02-21-Obsidian 정리 자동화 (biz-writer 확장).md"
+      ],
+      "retrieved_scores": [
+        0.4895094037055969,
+        0.5781145691871643,
+        0.5782479047775269,
+        0.6291298866271973,
+        0.6309467554092407
+      ],
+      "num_contexts": 5,
+      "llm_context_precision_with_reference": 1.0,
+      "context_recall": 1.0,
+      "faithfulness": 0.875,
+      "factual_correctness(mode=f1)": 0.0
+    },
+    {
+      "question": "네이버 DataLab API 제한은?",
+      "ground_truth": "요청당 최대 3개 카테고리",
+      "response": "정보 없음",
+      "retrieved_paths": [
+        "Memory/SYSTEM_STATE.md",
+        "ADR/ADR-018-콘텐츠 제작 자동화로 제작비를 60- 낮추는 문서형 SaaS.md",
+        "Projects/2026-02-22_n8n_하이브리드_아키텍처_기획.md",
+        "Memory/SYSTEM_STATE.md",
+        "selpix/변경로그-selpix.md"
+      ],
+      "retrieved_scores": [
+        0.6147876977920532,
+        0.619308352470398,
+        0.6196067333221436,
+        0.6279194951057434,
+        0.6407655477523804
+      ],
+      "num_contexts": 5,
+      "llm_context_precision_with_reference": 0.0,
+      "context_recall": 0.0,
+      "faithfulness": 0.0,
+      "factual_correctness(mode=f1)": 0.0
+    },
+    {
+      "question": "team_bus 메시지 TTL은?",
+      "ground_truth": "12시간",
+      "response": "정보 없음",
+      "retrieved_paths": [
+        "Runbooks/자동생성-TIMEOUT_RELAY.md",
+        "Memory/Daily/TEMPLATE.md",
+        "Memory/Conversations/2026-03-11.md",
+        "Memory/Conversations/2026-02-27.md",
+        "Memory/Conversations/2026-03-07.md"
+      ],
+      "retrieved_scores": [
+        0.6781236529350281,
+        0.687048077583313,
+        0.688439130783081,
+        0.6896353363990784,
+        0.6902358531951904
+      ],
+      "num_contexts": 5,
+      "llm_context_precision_with_reference": 0.0,
+      "context_recall": 0.0,
+      "faithfulness": 1.0,
+      "factual_correctness(mode=f1)": 0.0
+    },
+    {
+      "question": "에러 알림 쿨다운 시간은?",
+      "ground_truth": "2시간",
+      "response": "정보 없음",
+      "retrieved_paths": [
+        "Research/2026-03-01-텔레그램-에러-분석.md",
+        "Tasks/자동코딩-파이프라인-계획.md",
+        "Memory/Conversations/2026-03-11.md",
+        "Memory/Conversations/2026-03-11.md",
+        "Memory/Conversations/2026-02-27.md"
+      ],
+      "retrieved_scores": [
+        0.6205565929412842,
+        0.6259618997573853,
+        0.6306514739990234,
+        0.6317322254180908,
+        0.6345605850219727
+      ],
+      "num_contexts": 5,
+      "llm_context_precision_with_reference": 0.2,
+      "context_recall": 0.0,
+      "faithfulness": 1.0,
+      "factual_correctness(mode=f1)": 0.0
+    }
+  ]
+}
