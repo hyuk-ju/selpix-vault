@@ -210,3 +210,17 @@ created: 2026-02-21
 - 🟠 [CR-01] 크론 연속 에러: kstartup-daily-monitor (25회)
 - 🟡 [CR-04] 크론 최근 에러: kstartup-daily-monitor
 - 🟡 [RG-02] 리뷰 거절 미해결: 1건
+
+### 2026-03-21 — 일일 감사
+총 9건: CRITICAL 0 | HIGH 5 | MEDIUM 4 | LOW 0
+자동 수정: 0건
+
+- 🟠 [CR-01] 크론 연속 에러: weekly-kpi-review (2회)
+- 🟠 [CR-01] 크론 연속 에러: metrics-collector-hourly (91회)
+- 🟡 [CR-04] 크론 최근 에러: metrics-collector-hourly
+- 🟠 [CR-01] 크론 연속 에러: weekly-cost-report (2회)
+- 🟠 [CR-01] 크론 연속 에러: weekly-agent-scorecard (20회)
+- 🟠 [CR-01] 크론 연속 에러: kstartup-daily-monitor (31회)
+- 🟡 [CR-04] 크론 최근 에러: kstartup-daily-monitor
+- 🟡 [IF-07] config 레포 미push: ahead 1 (branch: ops/system-branch-pilot-20260222) 🔧자동
+- 🟡 [RG-02] 리뷰 거절 미해결: 1건
