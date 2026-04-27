@@ -31,6 +31,7 @@ Hermes Project Idea Lab은 현재 진행 중인 프로젝트를 기준으로 매
 ## 목적
 
 - 현재 진행 중인 프로젝트에서 파생되는 아이디어 발굴
+- 랜덤 트렌드가 아니라, 현재 앵커 프로젝트의 다음 기능/데모/수익화 실험을 찾기
 - 개발자 포트폴리오에 도움이 되는 아이디어 1개 선별
 - 작게 수익화 실험 가능한 아이디어 선별
 - 저녁에 실제 적용 방법을 토론하고 다음 액션으로 변환
@@ -41,6 +42,32 @@ Hermes Project Idea Lab은 현재 진행 중인 프로젝트를 기준으로 매
 1. MV BRAIN: `/home/dev/mv-brain`
 2. Hermes/Obsidian 운영 시스템
 3. Coupang/Domeggook 운영: 직접 수익 관련일 때만
+
+기본 앵커 프로젝트는 MV BRAIN이다. 사용자가 우선순위를 바꾸지 않는 한,
+아이디어는 MV BRAIN의 현재 상태를 먼저 읽고 그 다음 외부 리서치로 검증한다.
+
+## 프로젝트 앵커 리서치 규칙
+
+오전 아이디어 크론은 먼저 현재 프로젝트 상태를 확인한다.
+
+- README, AGENTS, 프로젝트 브리프
+- 최근 커밋과 현재 git status
+- 미완성 워크플로우, 데모 부족, README/포트폴리오 약점
+- 기존 아이디어 카드와 ADR 중복 여부
+
+그 다음 프로젝트 상태에서 나온 질문으로만 외부 리서치를 한다.
+
+- MV BRAIN: `r/videoediting`, `r/editors`, `r/finalcutpro`,
+  `r/Filmmakers`, `r/musicproduction`, `r/WeAreTheMusicMakers`,
+  FCPXML/GitHub issue, video editing automation, timeline search,
+  local-first media tool, Qdrant/Whisper/Gemini/AI video workflow
+- Hermes/Obsidian: agent workflow, Obsidian automation, local knowledge base,
+  cron agent, developer agent 운영 사례
+- Coupang/Domeggook: 상품 등록, 반려, 소싱, 마진, 운영 자동화에 직접 관련된 신호
+
+`approved` 판정에는 최소 2개 이상의 구체적 근거가 필요하고, 그중 1개 이상은
+Reddit, GitHub, HN, 문서, issue tracker, 제품/커뮤니티 리뷰 같은 외부 신호여야
+한다. LLM 추측만 있으면 `rejected` 또는 `watch`로 둔다.
 
 ## 내부 역할
 
